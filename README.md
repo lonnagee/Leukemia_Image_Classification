@@ -4,3 +4,5 @@ Below is a sample of the raw images as well as their labels, highlighting the ch
 
 
 ![leukemia1](https://github.com/lonnagee/Leukemia_Image_Classification/assets/136399598/b77c464b-36d7-491b-ac02-75c2d1b1754a)
+
+This analysis was completed in a Jupyter notebook and an accompanying report was created to better walk through the analysis and outcomes.  Further, a PowerPoint was created for presentation of the model.
